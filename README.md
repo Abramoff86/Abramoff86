@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Dmitry beginner backend🐍 developer
+## I'm Dmitry backend🐍 developer
 ## 🛠️ Backend Skills
 
 <p align="left">
